@@ -1,6 +1,6 @@
 # AI Ready School — Homepage Redesign
 
-**Live Demo**: https://ai-ready-school-navy.vercel.app/ *(to be deployed)*  
+**Live Demo**: https://ai-ready-school-navy.vercel.app/  
 **Stack**: React + Vite (Vanilla CSS design system)  
 **Time spent**: ~4 hours
 
