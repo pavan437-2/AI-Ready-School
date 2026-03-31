@@ -70,7 +70,7 @@ npm install
 npm run dev
 ```
 
-Open https://ai-ready-school-navy.vercel.app/ in your browser.
+Open http://localhost:5173/ in your browser.
 
 ---
 
