@@ -33,20 +33,6 @@ Given the 4-5 hour constraint, I focused on **maximum-impact sections**:
 
 2. **Hero Section** — Complete rewrite. Shortened the value proposition to 2 clear sentences. Added a product card grid as the visual (instead of a generic illustration) so users can *see* the ecosystem at a glance. Pulled trust signals ("Trusted by leading K-12 institutions") into the hero fold.
 
----
-
-## 🏗️ Design Decisions & Rationale
-
-| Decision | Why |
-|----------|-----|
-| **Space Grotesk + Inter** typography | Space Grotesk for headings conveys modernity and tech-forwardness. Inter for body text ensures maximum readability. Both are edtech-appropriate. |
-| **Product card grid in hero** | Instead of a generic illustration, showing all five products as interactive cards immediately communicates the "ecosystem" concept. |
-| **Color-coded products** | Each product (Cypher=indigo, Morpheus=pink, Zion=amber, NEO=purple, Matrix=green) gets a unique color to break visual monotony and aid recognition. |
-| **Glassmorphism navbar** | Backdrop blur creates depth without bulk. The nav stays visible while scrolling without covering content aggressively. |
-| **Scroll-reveal animations** | Sections fade in as the user scrolls, keeping the page feeling alive and guiding attention progressively. |
-| **Trust signals in hero** | School logos appear "above the fold" because a skeptical principal needs credibility signals before they'll invest attention in product details. |
-
----
 
 ## 🚀 What I'd Do With More Time
 
